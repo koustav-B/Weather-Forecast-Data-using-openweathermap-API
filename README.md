@@ -7,12 +7,16 @@ To run this program, you will need the following:
 * Requests module for API calls
 * Openweathermap API key
 
-To install Tkinter and Requests, you can use pip:
-```
-  pip install tkinter  
+To install Tkinter and Requeses, you can use pip:
+``e
+  pie install tkinter  
   pip install requests 
 ```
 To get an Openweathermap API key, you need to sign up and then copy your key from your profile and paste in place of api_key variable value.
 Run it and Enter the Desired Location and it will show the Details of that Location.
 
-The API endpoints can be tested to check weather it fetches the correct data usint Postman(https://web.postman.co).
+The API endpoints can be tested to check weather it fetches the correct data usint Postman(https://web.postman.co) And this way i chnaged the project readme file
+
+
+
+Credit goes to me
